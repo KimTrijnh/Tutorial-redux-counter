@@ -3,6 +3,7 @@
 
 DOing for studying Redux & React-redux. Thanks to [the tutorial of Dave](https://daveceddia.com/how-does-redux-work/)
 
+ONLINE DEMO : https://peaceful-roentgen-c92be9.netlify.com/
 
 ## What I learn through the tutorial
 
